@@ -238,10 +238,6 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 </div>
 
----
-
-<br/>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=90&section=footer" width="100%"/>
