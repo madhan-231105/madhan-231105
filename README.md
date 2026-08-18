@@ -41,8 +41,6 @@ Status   : Open to Internship & Development Opportunities
 
 ---
 
-<br/>
-
 ### 🛠️ Tech Stack
 
 **Languages**
