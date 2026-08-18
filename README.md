@@ -172,7 +172,6 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 </table>
 
 ---
-<br/>
 
 ### 📊 GitHub Stats
 
@@ -181,8 +180,6 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=madhan-231105&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="55%"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -199,9 +196,6 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 │  🧩 Data Structures & Algorithms                             │
 └──────────────────────────────────────────────────────────────┘
 ```
-
-<br/>
-
 ---
 
 <br/>
@@ -223,8 +217,8 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 
 <div align="center">
 
+**"Build. Learn. Break. Fix. Repeat."** 🚀
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=90&section=footer" width="100%"/>
 
-**"Build. Learn. Break. Fix. Repeat."** 🚀
 
 </div>
