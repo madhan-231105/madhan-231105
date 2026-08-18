@@ -170,27 +170,7 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 </td>
 </tr>
 </table>
-
-<br/>
-
 ---
-
-<br/>
-
-### 🧠 Problem Solving
-
-**[LeetCode](https://leetcode.com/u/madhan-231105/) • Data Structures • Algorithms**
-
-```text
-Learn → Practice → Optimize → Repeat
-```
-
-Currently working on improving my problem-solving skills through regular **LeetCode** practice and focusing on writing efficient, clean solutions.
-
-<br/>
-
----
-
 <br/>
 
 ### 📊 GitHub Stats
