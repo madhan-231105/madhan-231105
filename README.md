@@ -38,7 +38,6 @@ Status    : Open to Internship & Development Opportunities
 
 <br clear="right"/>
 
-<br/>
 
 ---
 
