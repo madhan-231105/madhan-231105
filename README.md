@@ -55,34 +55,6 @@ I enjoy turning ideas into functional applications and continuously improving my
 
 ---
 
-## 📌 Featured Projects
-
-### 🏥 Prescripto
-
-A full-stack doctor appointment booking platform built using the MERN stack.
-
-**Tech:** React · Node.js · Express · MongoDB · JWT
-
-### 💰 WalletTracker
-
-A personal finance and expense tracking application.
-
-**Tech:** Angular · TypeScript
-
-### 🤖 Internship Recommendation System
-
-A machine-learning based system designed to recommend suitable internships based on user-related data.
-
-**Tech:** Python · Jupyter · Machine Learning
-
-### 🎓 Examination & Attendance Management System
-
-A Java-based academic management system backed by MySQL.
-
-**Tech:** Java · MySQL
-
----
-
 ## 🧠 Problem Solving
 
 Currently improving my Data Structures & Algorithms skills through **LeetCode**, focusing on consistency and solving problems regularly.
