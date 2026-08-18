@@ -68,9 +68,9 @@ DSA → Problem Solving → Optimization → Consistency
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhan-231105&show_icons=true&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=madhan-231105&show_icons=true&hide_border=true&rank_icon=github" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan-231105&layout=compact&hide_border=true" width="40%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhan-231105&layout=compact&hide_border=true" width="40%" />
 
 </div>
 
@@ -80,7 +80,7 @@ DSA → Problem Solving → Optimization → Consistency
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhan-231105&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=madhan-231105&hide_border=true" />
 
 </div>
 
