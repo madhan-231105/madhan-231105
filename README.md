@@ -169,7 +169,7 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <div align="center">
 
