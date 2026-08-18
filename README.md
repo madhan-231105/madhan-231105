@@ -19,7 +19,7 @@
 
 <br/>
 
-<img align="right" alt="Linux Terminal" width="360" src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/demo.gif"/>
+<img align="right" alt="Coding Animation" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 👨‍💻 About Me
 
