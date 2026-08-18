@@ -205,7 +205,7 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=90&section=footer" width="60%"/>
 
 **"Build. Learn. Break. Fix. Repeat."** 🚀
 
