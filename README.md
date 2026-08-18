@@ -308,10 +308,6 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=madhan-231105&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
 **"Build. Learn. Break. Fix. Repeat."** 🚀
 
 </div>
