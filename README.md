@@ -4,13 +4,14 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+web+applications;Exploring+DevOps+%26+Cloud+technologies;Full-Stack+%7C+React+%7C+Node.js+%7C+Java;Turning+ideas+into+working+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+web+applications;Exploring+DevOps+%26+Cloud+technologies;Full-Stack+%7C+React+%7C+Node.js+%7C+Python;Turning+ideas+into+working+software)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://madhang.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/madhan-231105"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/madhan-g-54bb4b355/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/madhan-231105/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="mailto:madhang231105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
@@ -174,6 +175,23 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 </table>
 
 <br/>
+
+---
+
+<br/>
+
+### 🧠 Problem Solving
+
+**[LeetCode](https://leetcode.com/u/madhan-231105/) • Data Structures • Algorithms**
+
+```text
+Learn → Practice → Optimize → Repeat
+```
+
+Currently working on improving my problem-solving skills through regular **LeetCode** practice and focusing on writing efficient, clean solutions.
+
+<br/>
+
 ---
 
 <br/>
@@ -192,6 +210,24 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 
 <br/>
 
+### ⚡ What I'm Working On
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  💻 Full-Stack Development                                   │
+│  ⚙️  DevOps & CI/CD                                          │
+│  ☁️  Cloud & Containerization                                │
+│  🧠 Machine Learning                                         │
+│  🧩 Data Structures & Algorithms                             │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
+<br/>
+
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -202,6 +238,10 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 <a href="mailto:madhang231105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
+
+---
+
+<br/>
 
 <div align="center">
 
