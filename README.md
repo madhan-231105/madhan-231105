@@ -186,17 +186,18 @@ A web-based optimization project focused on improving delivery planning and find
 
 <div align="center">
 
-### 💧 Water Quality AI
+### 🚀 [DevFlow – CI/CD Pipeline](https://github.com/madhan-231105/DevFlow_CI-CD_Pipeline)
 
 </div>
 
-A machine-learning project focused on analyzing water quality data and building predictive models using environmental parameters.
+A real-time CI/CD pipeline monitoring dashboard that visualizes GitHub Actions workflows — trigger pipelines, monitor build stages, and track status live.
 
 **Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189C3A?style=flat-square\&logo=xgboost\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
 
 </td>
 
@@ -204,16 +205,17 @@ A machine-learning project focused on analyzing water quality data and building 
 
 <div align="center">
 
-### 🧠 Brain Tumor Classification
+### 🛡️ [ZeroTrust-Hub](https://github.com/madhan-231105/ZeroTrust-Hub)
 
 </div>
 
-A machine-learning project exploring image classification techniques for brain tumor detection using medical imaging data.
+A secure enterprise-focused system for authentication, real-time IP monitoring, session validation, and tamper-resistant security logging, built during a 24-hour hackathon.
 
 **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
 </td>
 
