@@ -183,8 +183,6 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 
 ---
 
-<br/>
-
 ### ⚡ What I'm Working On
 
 ```text
