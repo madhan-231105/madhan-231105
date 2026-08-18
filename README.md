@@ -76,16 +76,6 @@ DSA → Problem Solving → Optimization → Consistency
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=madhan-231105&hide_border=true" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="left">
