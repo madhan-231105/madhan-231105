@@ -203,7 +203,7 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhan-231105&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=2563eb&point=60a5fa" width="95%"/>
+<img src="https://ghchart.rshah.org/3B82F6/madhan-231105" alt="madhan-231105's GitHub contribution calendar" width="95%"/>
 
 </div>
 
