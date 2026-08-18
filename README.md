@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+web+applications;Exploring+DevOps+%26+Cloud+technologies;Full-Stack+%7C+React+%7C+Node.js+%7C+Python;Turning+ideas+into+working+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+web+applications;Exploring+DevOps+%26+Cloud+technologies;Full-Stack+%7C+React+%7C+Node.js+%7C+Java;Turning+ideas+into+working+software)](https://git.io/typing-svg)
 
 <br/>
 
@@ -185,24 +185,6 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=madhan-231105&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="55%"/>
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-### ⚡ What I'm Working On
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  💻 Full-Stack Development                                   │
-│  ⚙️  DevOps & CI/CD                                          │
-│  ☁️  Cloud & Containerization                                │
-│  🧠 Machine Learning                                         │
-│  🧩 Data Structures & Algorithms                             │
-└──────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
