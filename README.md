@@ -92,14 +92,13 @@ DSA → Problem Solving → Optimization → Consistency
 ```
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhan-231105&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=madhan-231105&show_icons=true&hide_border=true&rank_icon=github" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan-231105&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan-231105&layout=compact&hide_border=true" width="40%" />
 
 </div>
 
@@ -109,7 +108,7 @@ DSA → Problem Solving → Optimization → Consistency
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=madhan-231105&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhan-231105&hide_border=true" />
 
 </div>
 
@@ -117,7 +116,7 @@ DSA → Problem Solving → Optimization → Consistency
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<div align="left">
 
 <a href="https://madhang.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -130,15 +129,5 @@ DSA → Problem Solving → Optimization → Consistency
 <a href="https://github.com/madhan-231105">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💻 Build. Learn. Break. Fix. Repeat.
-
-⭐ Feel free to explore my repositories and connect with me!
 
 </div>
