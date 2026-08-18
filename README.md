@@ -243,16 +243,6 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=madhan-231105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" width="48%"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhan-231105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" width="40%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=madhan-231105&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="55%"/>
 
 </div>
