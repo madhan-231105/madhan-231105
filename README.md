@@ -162,17 +162,17 @@ A machine-learning based recommendation system that analyzes relevant data and r
 
 <div align="center">
 
-### 🚚 Delivery Optimizer
+### 🧠 [DL Brain Tumor Prediction](https://github.com/madhan-231105/DL_brain_tumor_prediction)
 
 </div>
 
-A web-based optimization project focused on improving delivery planning and finding efficient routes using data-driven approaches.
+A deep learning project for brain tumor detection from MRI images, covering dataset handling, model training, evaluation, and misclassification analysis, served through a Flask web app.
 
 **Tech Stack**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 
 </td>
 
