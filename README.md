@@ -102,7 +102,7 @@ Status   : Open to Internship & Development Opportunities
 
 <div align="center">
 
-### 🏥 Prescripto
+### 🏥 [Prescripto](https://github.com/madhan-231105/Prescripto-Appointment-booking-system-with-whitebox-blockbox-test)
 
 </div>
 
@@ -121,7 +121,7 @@ A full-stack doctor appointment booking platform that allows patients to discove
 
 <div align="center">
 
-### 💰 WalletTracker
+### 💰 [WalletTracker](https://github.com/madhan-231105/WalletTraker)
 
 </div>
 
@@ -144,7 +144,7 @@ A personal finance management application designed to track income, expenses and
 
 <div align="center">
 
-### 🤖 Internship Recommendation Engine
+### 🤖 [Internship Recommendation Engine](https://github.com/madhan-231105/internship-recommendation-system)
 
 </div>
 
