@@ -24,15 +24,16 @@
 ### 👨‍💻 About Me
 
 ```yaml
-Name     : Madhan G
-Degree   : MSc Decision and Computing Science
-Location : Tamil Nadu, India
-Focus    : Full-Stack Development + DevOps
-Backend  : Node.js + Express.js
-Frontend : React.js + Next.js + Angular
-Learning : Cloud, Kubernetes & System Design
-Practice : Data Structures & Algorithms
-Status   : Open to Internship & Development Opportunities
+Name      : Madhan G
+Degree    : MSc Decision and Computing Science
+Institute : Coimbatore Institute of Technology
+Location  : Tamil Nadu, India
+Focus     : Full-Stack Development + DevOps
+Backend   : Node.js + Express.js
+Frontend  : React.js + Next.js + Angular
+Learning  : Cloud, Kubernetes & System Design
+Practice  : Data Structures & Algorithms
+Status    : Open to Internship & Development Opportunities
 ```
 
 <br clear="right"/>
