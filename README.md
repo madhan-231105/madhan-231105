@@ -11,20 +11,12 @@
 </div>
 
 <br/>
+
 <div align="center">
 
-<a href="https://madhang.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://github.com/madhan-231105">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/madhan-g-54bb4b355/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:madhang231105@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-madhan--231105-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/madhan-231105)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhan%20G-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/madhan-g-54bb4b355/)
 
 </div>
 
@@ -307,6 +299,10 @@ Currently working on improving my problem-solving skills through regular **LeetC
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=madhan-231105&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
 
 **"Build. Learn. Break. Fix. Repeat."** 🚀
 
