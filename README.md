@@ -201,10 +201,6 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=madhan-231105&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="55%"/>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhan-231105&theme=github_dark" width="95%"/>
-
 </div>
 
 <br/>
