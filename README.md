@@ -87,8 +87,6 @@ Status   : Open to Internship & Development Opportunities
 
 ---
 
-<br/>
-
 ### 🚀 Featured Projects
 
 <table width="100%">
