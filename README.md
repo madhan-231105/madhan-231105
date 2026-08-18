@@ -179,19 +179,6 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 
 ---
 
-### ⚡ What I'm Working On
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  💻 Full-Stack Development                                   │
-│  ⚙️  DevOps & CI/CD                                          │
-│  ☁️  Cloud & Containerization                                │
-│  🧠 Machine Learning                                         │
-│  🧩 Data Structures & Algorithms                             │
-└──────────────────────────────────────────────────────────────┘
-```
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
