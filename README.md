@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=180&section=header&text=MADHAN&fontSize=55&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Enthusiast%20%E2%80%A2%20ML%20Explorer&descSize=15&descColor=93c5fd&descAlignY=70&animation=fadeIn" width="100%"/>
 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+web+applications;Exploring+DevOps+%26+Cloud+technologies;Full-Stack+%7C+React+%7C+Node.js+%7C+Python;Turning+ideas+into+working+software)](https://git.io/typing-svg)
 
-<br/>
 
 <a href="https://madhang.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/madhan-231105"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
