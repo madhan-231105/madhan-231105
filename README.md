@@ -238,8 +238,6 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 </div>
 
-<br/>
-
 ---
 
 <br/>
