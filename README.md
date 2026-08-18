@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MADHAN&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Enthusiast%20%E2%80%A2%20ML%20Explorer&descSize=16&descColor=a78bfa&descAlignY=75&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=MADHAN&fontSize=60&fontColor=ffffff&fontAlignY=55&desc=Full-Stack%20Developer%20%E2%80%A2%20DevOps%20Enthusiast%20%E2%80%A2%20ML%20Explorer&descSize=16&descColor=93c5fd&descAlignY=75&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=A78BFA\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+web+applications;Exploring+DevOps+%26+Cloud+technologies;Full-Stack+%7C+React+%7C+Node.js+%7C+Python;Turning+ideas+into+working+software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=18\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=600\&lines=Building+scalable+web+applications;Exploring+DevOps+%26+Cloud+technologies;Full-Stack+%7C+React+%7C+Node.js+%7C+Python;Turning+ideas+into+working+software)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,13 +16,13 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-madhan--231105-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/madhan-231105)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhan%20G-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Madhan%20G-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/madhan-g-54bb4b355/)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -243,17 +243,9 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhan-231105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=madhan-231105&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhan-231105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madhan-231105&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=madhan-231105&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" width="40%"/>
 
 </div>
 
@@ -261,7 +253,15 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhan-231105&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa" width="95%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=madhan-231105&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="55%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=madhan-231105&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=3B82F6&line=2563eb&point=60a5fa" width="95%"/>
 
 </div>
 
@@ -293,7 +293,7 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/madhan-g-54bb4b355/">
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)
 
@@ -305,11 +305,11 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=madhan-231105&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=madhan-231105&color=3B82F6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
