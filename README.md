@@ -203,7 +203,7 @@ Currently working on improving my problem-solving skills through regular **LeetC
 
 <br/>
 
-<img src="https://ghchart.rshah.org/3B82F6/madhan-231105" alt="madhan-231105's GitHub contribution calendar" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=madhan-231105&theme=github_dark" width="95%"/>
 
 </div>
 
