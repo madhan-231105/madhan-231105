@@ -192,8 +192,6 @@ A secure enterprise-focused system for authentication, real-time IP monitoring, 
 ```
 ---
 
-<br/>
-
 ### 🌐 Connect With Me
 
 <div align="center">
