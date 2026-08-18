@@ -162,7 +162,7 @@ A machine-learning based recommendation system that analyzes relevant data and r
 
 <div align="center">
 
-### 🧠 [DL Brain Tumor Prediction](https://github.com/madhan-231105/DL_brain_tumor_prediction)
+### 🧠 [Brain Tumor Prediction using DL](https://github.com/madhan-231105/DL_brain_tumor_prediction)
 
 </div>
 
